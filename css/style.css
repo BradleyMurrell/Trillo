@@ -62,7 +62,7 @@ body {
   font-size: 1.4rem;
   height: 7rem;
   background-color: #fff;
-  border-bottom: var(--color-grey-light-2);
+  border-bottom: 1px var(--color-grey-light-2);
   display: flex;
   justify-content: space-between;
   align-items: center; }
@@ -209,3 +209,12 @@ body {
   .gallery__photo {
     width: 100%;
     display: block; }
+
+.overview {
+  display: flex; }
+  .overview__stars {
+    margin-right: auto; }
+  .overview__icon-star, .overview__icon-location {
+    width: 1.75rem;
+    height: 1.75rem;
+    fill: var(--color-primary); }
