@@ -1,6 +1,8 @@
 # Trillo
-Walkthrough project from Advanced CSS and Sass course. Created by Jonas Schedtmann.
+Walkthrough project from Advanced CSS and Sass course created by JONAS SCHMEDTMANN.
 
-Trillo is a simple landing page that demonstrates the use of flexbox.
+This project focuses on the use of flexbox.
 
-The project also makes use of sprite images instead of font icons.
+Live page can be found at https://bradleymurrell.github.io/trillo/
+
+Course can be found at https://www.udemy.com/course/advanced-css-and-sass/
